@@ -20,6 +20,7 @@ A simple and basic **E-Commerce Web App** built with **React**, featuring **Add 
 ✅ **Routing with React Router**  
 ✅ **Responsive Layout**
 
+1-Install dependencies
 ```
 npm install
 ```
