@@ -20,6 +20,24 @@ A simple and basic **E-Commerce Web App** built with **React**, featuring **Add 
 ✅ **Routing with React Router**  
 ✅ **Responsive Layout**
 
+```
+npm install
+```
+2-Run the app
+```
+npm start
+```
+
+## 🔧 How It Works
+
+- Product data is fetched from a fake API using Axios
+- Cart items are managed in state and synced with localStorage
+- Users can:
+- View product details
+- Add to cart with custom quantity
+- Remove items from cart
+- Reopen the site and keep their cart
+
 
 ## 🚀 Live Demo
 
